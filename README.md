@@ -14,7 +14,6 @@
 2. Install dependencies
 
 ```sh
-cd project name
 npm install
 
 ```
