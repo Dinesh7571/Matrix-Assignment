@@ -31,5 +31,5 @@ The user interface will be running on http://localhost:5173.
 
 ##demo
 
-[![Watch the video](https://img.youtube.com/vi/Z272iTo2k1GkkX3e/0.jpg)](https://www.youtube.com/watch?v=Z272iTo2k1GkkX3e)
+[![Watch the video](https://img.youtube.com/vi/Z272iTo2k1GkkX3e/0.jpg)](https://youtu.be/cQXu0hoYDjY?si=Z272iTo2k1GkkX3e)
 
